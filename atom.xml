@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>42cloud and 42team</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://42cloud.cn/"/>
+  <updated>2020-03-09T03:39:13.065Z</updated>
+  <id>https://42cloud.cn/</id>
+  
+  <author>
+    <name>42team</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的第一篇博客文章</title>
+    <link href="https://42cloud.cn/2020/03/09/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0.html"/>
+    <id>https://42cloud.cn/2020/03/09/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0.html</id>
+    <published>2020-03-09T03:32:49.000Z</published>
+    <updated>2020-03-09T03:39:13.065Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;赞赏作者&quot;&gt;&lt;a href=&quot;#赞赏作者&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="技术" scheme="https://42cloud.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo-Theme-Sakura</title>
+    <link href="https://42cloud.cn/2018/12/12/Hexo-Theme-Sakura.html"/>
+    <id>https://42cloud.cn/2018/12/12/Hexo-Theme-Sakura.html</id>
+    <published>2018-12-12T14:16:01.000Z</published>
+    <updated>2020-03-06T22:15:28.000Z</updated>
+    
+    <summary type="html">
+    
+      hexo-sakura主题使用教程
+    
+    </summary>
+    
+    
+      <category term="技术" scheme="https://42cloud.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="web" scheme="https://42cloud.cn/tags/web/"/>
+    
+      <category term="悦读" scheme="https://42cloud.cn/tags/%E6%82%A6%E8%AF%BB/"/>
+    
+  </entry>
+  
+</feed>
